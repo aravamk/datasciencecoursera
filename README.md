@@ -1,2 +1,2 @@
 # freezing-bugfixes
-My First GITHUB REPO
+My First GITHUB REPOSITORY
